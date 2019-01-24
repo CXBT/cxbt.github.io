@@ -2,8 +2,8 @@
 layout: post
 title:  "Pwnable.kr unlink 풀이"
 date:   2019-01-24 15:13:49 +0900
-categories: writeup
-tags: pwn
+categories: pwn
+tags: writeup
 ---
 
 # unlink - 10 pt
