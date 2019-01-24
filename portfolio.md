@@ -6,6 +6,19 @@ permalink: /portfolio/
 
 준비중...
 
+
+## Career
+
+**TERUTEN Inc.**, 서울특별시 - 사이버보안센터 사원
+
+- 기간 : 2018.10 - 현재
+
+**Satrec Initiative**, 대전광역시 - 지상3팀 인턴쉽
+ 
+ - 기간 : 2018.01 - 2018.02
+    - ElasticSearch와 InfluxDB 성능 비교 분석 프로젝트 수행
+    - DAM 서비스 취약점 분석 프로젝트 진행
+
 ## Awards
 
 ### 2018
