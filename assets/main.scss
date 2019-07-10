@@ -1,0 +1,22 @@
+---
+---
+
+@import "minima";
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+img + em {
+    display: block;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.post-title {
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 1;
+}
