@@ -2,8 +2,8 @@
 layout: post
 title:  "알고 쓰자 쉘코드?"
 date:   2019-07-09 16:55:43 +0900
-categories: pwn
-tags: pwnable.tw
+categories: writeup
+tags: wargame pwnable.tw pwnable
 ---
 
 알고 쓰는건 중요하다. 좆문가 소리를 듣기 전에 본인이 조질 수 있기 때문이다. 내가 그랬다 허허.

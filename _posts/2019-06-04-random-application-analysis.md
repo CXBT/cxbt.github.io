@@ -2,8 +2,8 @@
 layout: post
 title:  "랜덤한 앱 분석시간"
 date:   2019-06-04 15:53:39 +0900
-categories: rev
-tags: android kotlin
+categories: life
+tags: android reversing
 ---
 
 <style>
@@ -21,7 +21,7 @@ img + em {
 
 ## 물론 대상은 랜덤하다
 
-![1](/assets/2019-06-04-random-application-analysis/1.png)
+![1](/assets/2019-06-04-random-application-analysis/1.png){: .center-image }
 *세상은 넓고 취향은 다양하다*
 
 그래서 뭘 한번 분석해볼까 물색하다가 [`헤어 클리퍼 - 장난이다`](https://play.google.com/store/apps/details?id=com.cuneytayyildiz.sackesmemakinesi) 라는 앱을 발견했다. 보니까 면도기 진동이랑 소리를 따라한 앱 같은데 다운로드 수가 10,000,000회가 넘는다고 한다, 세상에. 물론 출시 날짜가 2013년으로 모바일 어플리케이션 시장이 슬슬 가동하기 시작한 시기이니 사람들이 뭐 궁금해서 많이 깔아본걸 수도 있을것 같다. 그래도 이 잉여 앱을 천만명이 깔았다는 건 좀 신기하다...?
@@ -46,7 +46,7 @@ $ adb pull /data/app/com.cuneytayyildiz.sackesmemakinesi-WGf935H7FTl35ZyZA5PBcw=
 
 분석할 때 [`jadx`](https://github.com/skylot/jadx)란 툴을 사용했다. `luyten`, `jd-gui`, `apktool` 같은 다른 도구 또한 있으나 얘는 apk 파일 하나만 던져줘도 다 한큐에 해줘서 편해서 쓴다..ㅎㅎ 
 
-![2](/assets/2019-06-04-random-application-analysis/2.png)
+![2](/assets/2019-06-04-random-application-analysis/2.png){: .center-image }
 *kotlin 패키지가 포함된걸로 보아하니 아마...*
 
 여러 패키지가 포함되어 있는데 우리가 볼건 당연히 `com.cunetayyildiz.sackesmemakinesi` 패키지 안 내용이다. 프로가드가 적용된건지 클래스가 다 a, b, c로 되어 있다. 음...

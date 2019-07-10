@@ -1,17 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-<div align="center">
-    <a href="https://github.com/cxbt" style="">
-       <img alt="" width="230" height="230" src="https://avatars2.githubusercontent.com/u/24769005?s=460&amp;v=4" style="border-radius: 50%; margin:0px 0px 50px 0px">
-    </a>
-</div>
+그냥 그날그날 떠오른 거, 평소에 하던거 올리는 블로그입니다.
 
-이것 저것 만지면서 놀고있는 윤제환입니다.
+솔직히 글 내용이 유익하진 않은 것 같고 보면서 재밌네 하고 지나가면 좋겠네요.
 
-완전 초보 뉴비 해커입니다. 이제부터 많이 배우려고요
-
-현재 (주)테르텐에 근무하고 있습니다.
+혹시라도 잘못 알고 있는 내용을 맞다고 써버린걸 찾으면 알려주시기 바랍니다. 커피라도 사드릴께요
