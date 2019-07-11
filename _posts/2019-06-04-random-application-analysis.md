@@ -4,6 +4,7 @@ title:  "랜덤한 앱 분석시간"
 date:   2019-06-04 15:53:39 +0900
 categories: life
 tags: android reversing
+image: /assets/2019-06-04-random-application-analysis/1.png
 ---
 
 <style>

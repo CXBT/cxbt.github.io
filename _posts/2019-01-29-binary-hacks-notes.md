@@ -4,9 +4,10 @@ title:  "Notes while reading \"Binary Hacks\""
 date:   2019-01-29 16:05:15 +0900
 categories: life
 tags: linux
+image: /assets/2019-01-29-binary-hacks-notes/1.jpeg
 ---
 
-![이미지](https://books.google.co.kr/books/content?id=vKqYMQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70Az-m-T2GujWn__UMIjsHINubX1pvcAg5ZBG7HGxQX6H4Zxfua60X3QEHCIylDyJwnBeO7P_sDY7rr4UHe9LyR_cbxe7UV04_Ee4lvU-YsDnndTCjh_6OTOFiUnoxAg7yoQdPp){: .center-image }
+![이미지](/assets/2019-01-29-binary-hacks-notes/1.jpeg){: .center-image }
 
 [`BINARY HACKS: 해커가 전수하는 테크닉 100선`](https://books.google.co.kr/books/about/BINARY_HACKS_%ED%95%B4%EC%BB%A4%EA%B0%80_%EC%A0%84%EC%88%98%ED%95%98%EB%8A%94_%ED%85%8C.html?id=vKqYMQAACAAJ&redir_esc=y) 이란 책을 읽으면서 기억해 놓고 싶은 명령어를 여기 끄적여 봤습니다.
 

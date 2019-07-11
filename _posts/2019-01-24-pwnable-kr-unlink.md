@@ -4,6 +4,7 @@ title:  "Pwnable.kr unlink 풀이"
 date:   2019-01-24 15:13:49 +0900
 categories: writeup
 tags: wargame pwnable pwnable.kr
+image: /assets/2019-01-24-pwnable-kr-unlink/1.png
 ---
 
 # unlink - 10 pt
@@ -82,7 +83,7 @@ void unlink(OBJ* P){
 
 `unlink` 함수에서는 파라미터로 주어진 `OBJ` 구조체 블록의 연결을 끊으면서 자신의 `fd`와 `bk`를 가르키고 있던 두 구조체로 연결을 시켜주네요. 결국 끊어진 구조체는 고립되게 됩니다. 그림으로 보면 이해가 더 쉬울 것 같네요. 발로 그림을 그렸나 의심할 수 있는데 손으로 그렸습니다 하하.
 
-![1](https://raw.githubusercontent.com/cxbt/Writeup/master/Wargame/Pwnable.kr/screenshot/unlink_1.png)
+![1](/assets/2019-01-24-pwnable-kr-unlink/1.png)
 
 ### 공략 방법
 
