@@ -68,7 +68,7 @@ permalink: /resume
 
 |        Name        	| Issuing Organization 	|  Score 	| Issue Date 	|
 |:------------------:	|:--------------------:	|:------:	|:----------:	|
-| 리눅스마스터 2급   	| 한국정보통신진흥협회 	| Passed 	| -           	|
+| 리눅스마스터 2급   	| 한국정보통신진흥협회 	| Passed 	| Dec 2017        |
 | 정보기기운용기능사 	| 한국산업인력공단     	| Passed 	| July 2018  	|
 | 정보처리기능사     	| 한국기술자격검정원   	| Passed 	| Sep 2016   	|
 | TOPCIT             	| TOPCIT               	| 391    	| May 2017   	|
