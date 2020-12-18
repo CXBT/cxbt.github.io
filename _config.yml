@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/cxbt/cxbt.github.io
-  branch: master
+  branch: release
