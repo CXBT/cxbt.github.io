@@ -9,7 +9,7 @@ description: ""
 keywords:
 author: CXBT
 language: ko
-timezone: "KR"
+timezone: "Asia/Seoul"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -106,3 +106,10 @@ deploy:
   type: git
   repo: https://github.com/cxbt/cxbt.github.io
   branch: release
+
+# hexo-generator-feed
+## Source: https://d2fault.github.io/2018/02/20/20180220-hexo-essential-plugin/
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: 20
